@@ -87,7 +87,7 @@ form button:hover {
   opacity: 0.5;
 }
 .fall {
-  transform: translateY(8rem) rotateZ(20deg);
+  transition: all 1s ease;
   opacity: 0;
 }
 select {
